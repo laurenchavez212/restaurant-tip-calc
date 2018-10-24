@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  align-items: center;
+  background: url("https://images.pexels.com/photos/1097425/pexels-photo-1097425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat center center fixed;
+  background-size: cover;
+   bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  position: absolute;
+}
+
+.calculator {
+  padding-top: 10vh;
+  padding-right: 5%;
+  padding-left: 5%;
+  opacity: .95;
+}
+
+.header {
+  background-color: #fff;
+  opacity: .8;
+  margin-top: 4vh;
+}
+
+.calcCard {
+  height: 50vh;
+}
+
+.calcCard h4 {
+  padding-top: 5vh;
+}
